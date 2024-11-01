@@ -1,0 +1,49 @@
+
+
+#welcome {
+    background-color: #fff;
+    padding: 25px 20px;
+    border: 1px solid #dadada;
+    margin: 10px 0 0 0;
+    position: relative;
+    border-radius: 5px
+}
+
+#woden_logo {
+    float: left;
+    width: 40px;
+    margin-right: 10px;
+}
+
+#connected, #not-connected {
+    text-align: center;
+    width: 130px;
+    height: 25px;
+    border-radius:3px;
+}
+
+#connected strong, #not-connected strong {
+    color: #ffffff;
+    padding:1.1em;
+}
+
+#connected {
+    background: #02c257;
+}
+
+#not-connected {
+    background: red;
+}
+
+#wodenevents_api_key {
+    width: 330px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+
+.form-table td p.description {
+    margin-top: 8px;
+}
